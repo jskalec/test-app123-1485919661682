@@ -6,5 +6,3 @@ applications:
   name: test-app123
   host: test-app123
   disk_quota: 1024M
-  services:
-  - Cloudant NoSQL DB-qt
